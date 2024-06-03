@@ -1,4 +1,4 @@
-# 👨‍💻 Mohammad Aleem
+# 👨‍💻 Mohammad Omar Aleem
 
 📧 [Email](mailto:momaraleem30@gmail.com) |🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-omar-aleem)
 

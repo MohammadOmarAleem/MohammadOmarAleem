@@ -5,7 +5,7 @@
 ## 🛠 Skills & Qualifications
 
 - **Operating Systems**: Windows 7/8/10/11
-- **Tools**: MS Office, Visual Studio, GitHub, YouTube
+- **Tools**: MS Office, Visual Studio, GitHub, MS Intune, MS Azure, MS Admin 365, MS Exchange, MondayBoard
 - **Programming**: C++, MATLAB
 - **Languages**: Urdu, English, Hindi
 

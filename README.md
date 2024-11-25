@@ -15,8 +15,10 @@ Studying **Electrical Engineering** at _Concordia University, Montreal, QC_ (Exp
 
 ## 🚀 Projects
 
+- **ClockIt**: A project focusing on automating the Attendance Process.
 - **Othello Board Game**: An interactive game developed in C++ during my academic tenure at Concordia.
 - **Automated Sensor-Driven Car**: A personal project focusing on autonomous navigation.
+  
 
 ## 💼 Work Experience
 

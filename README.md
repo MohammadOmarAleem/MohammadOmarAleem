@@ -1,61 +1,43 @@
 # 👨‍💻 Mohammad Omar Aleem
 
-📧 [Email](mailto:momaraleem30@gmail.com) |🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-omar-aleem)
+📧 [Email](mailto:momaraleem30@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadomaraleem) | 🌐 [GitHub](https://github.com/MohammadOmarAleem)
 
 ## 🛠 Skills & Qualifications
 
-- **Operating Systems**: Windows 7/8/10/11
-- **Tools**: MS Office, Visual Studio, GitHub, MS Intune, MS Azure, MS Admin 365, MS Exchange, MondayBoard
-- **Programming**: C++, MATLAB
+- **Operating Systems**: Windows 8/10/11, Linux, macOS, iOS, Android
+- **Tools & Applications**: MS Office 365, MATLAB, AutoCAD, LTspice, Visual Studio, Microsoft Intune, Microsoft Azure, Power Automate, Exchange Admin, Ninja One, Commvault, GitHub
+- **Programming**: C++, Java
+- **Hardware Tools**: Multimeter, Oscilloscope, Breadboard, Function Generator, Soldering Tools
 - **Languages**: Urdu, English, Hindi
 
 ## 🎓 Education
 
-Studying **Electrical Engineering** at _Concordia University, Montreal, QC_ (Expected 2026). Member of the Institute for Co-operative Education.
+Studying **Bachelor of Electrical Engineering, Co-op** at _Concordia University, Montreal, QC_ (Expected Graduation: Fall 2026).  
+Relevant Courses: Programming in C++, Circuit Analysis, Digital System Design, Electronics, Control Systems, Data Structures and Algorithms, Electromagnetics.
 
 ## 🚀 Projects
 
-### **Room Occupancy Monitoring System** (April 2024)  
-Developed a digital system using VHDL to track room occupancy thresholds.  
-- Utilized Xilinx Nexys A7 FPGA for simulation and synthesis.  
-- Achieved resource optimization and speed improvements.  
-**Technologies**: VHDL, FPGA Simulation, Binary Logic  
+- **ClockIt**: Developed an NFC-based attendance system improving accuracy and automating attendance processes.
+- **Room Occupancy Monitoring System**: Engineered a digital system using VHDL to monitor and manage room occupancy thresholds. Integrated the design with Xilinx Nexys A7 FPGA for simulation and optimization.
+- **Automated Hovercraft**: Designed an autonomous hovercraft using Arduino, incorporating ultrasonic sensors and an IMU for advanced navigation and obstacle avoidance.
+- **Othello Board Game**: An interactive game developed in C++ with a focus on object-oriented programming and efficient data handling.
 
-### **Automated Hovercraft** (September 2023)  
-Designed an autonomous hovercraft integrating ultrasonic sensors and an IMU for obstacle avoidance.  
-- Balanced system complexity against performance in a competitive design context.  
-**Technologies**: Arduino Programming, Technical Integration  
+## 💼 Work Experience
 
-### **Othello Board Game Implementation** (March 2023)  
-Created an interactive Othello game with real-time state management and dynamic data handling.  
-- Focused on object-oriented design principles in C++.  
-**Technologies**: C++, Object-Oriented Design  
+- **IT Intern** at _Foodtastic, Montreal, QC_ (May 2024 – August 2024):  
+  - Managed identity and access systems using Azure, Intune, and Exchange Admin.
+  - Automated workflows using Power Automate and optimized inventory systems with Python.
+  - Resolved over 500 IT issues, enhanced cybersecurity awareness, and documented ransomware mitigation strategies.
 
-### **ClockIt** (November 2024)
-Developed an NFC-based attendance tracking system, improving accuracy and efficiency in educational institutions.  
-**Technologies**: ESP32, NFC Technology,Arduino Programming
-  
-
-### **IT Intern**  
-_Foodtastic - Montreal, QC | May 2024 – August 2024_  
-- Managed Azure, Intune, and Exchange for identity and access management.  
-- Automated processes with Power Automate and optimized inventory systems using Python.  
-- Resolved over 500 IT issues and deployed monitoring tools for critical systems.  
-- Enhanced cybersecurity awareness through phishing simulations and ransomware mitigation.  
-
-### **Call Centre Executive**  
-_The Lead Forum - Karachi, Pakistan | June 2019 – September 2019_  
-- Facilitated sales and customer interactions through outbound calls.  
-- Met performance targets and documented customer queries and resolutions.  
-
----
-
+- **Call Centre Executive** at _The Lead Forum, Karachi_ (June 2019 – September 2019):  
+  - Handled outbound calls, facilitated sales, and achieved performance targets.
+  - Recorded and managed customer interactions using the company's designated tools.
 
 ## 🏆 Awards & Distinctions
 
-- 🌐 Model United Nation - Delegate of Japan (2022)
+- 🌐 Model United Nations - Delegate of Japan (2022)
 - 🔬 Annual Science Exhibition (2019, 2020)
-- 🎨 Poster Making Competition promoting a Sustainable environment (2019)
+- 🎨 Poster Making Competition promoting a sustainable environment (2019)
 
 ## 🤝 Volunteer Work
 
@@ -63,4 +45,4 @@ Actively contributed to environmental initiatives as a member of the **Community
 
 ## 🏏 Interests
 
-Passionate about Football, Cricket, and staying updated with the latest tech trends.
+Passionate about Football, Cricket, and exploring the latest trends in technology.
